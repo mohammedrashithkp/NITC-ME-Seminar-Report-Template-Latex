@@ -1,6 +1,6 @@
 # NITC-ME-Seminar-Report-Template-Latex
 
-> Disclaimer :The Template was made with [Report Guidelines of 2025](Guidelines\4.Report Format_MED_14-01-2020.pdf) in mind.There may be changes with time,so kindly cross-check and make necessary changes.
+> Disclaimer :The Template was made with [Report Guidelines of 2025](https://github.com/mohammedrashithkp/NITC-ME-Seminar-Report-Template-Latex/blob/main/Guidelines/4.Report%20Format_MED_14-01-2020.pdf) in mind.There may be changes with time,so kindly cross-check and make necessary changes.
 
 This repo contains the Seminar Report Template for Mechanical Engineering Students in NIT Calicut.If there are formatting issues,kindly raise a issue at the earliest.Or if you have already fixed it then fork the repo and create a pull request.If you don't know how then ,Learn how to [collaborate in github](https://github.com/firstcontributions/first-contributions).
 
