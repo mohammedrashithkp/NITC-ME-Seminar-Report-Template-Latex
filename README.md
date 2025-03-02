@@ -9,6 +9,11 @@ This repo contains the Seminar Report Template for Mechanical Engineering Studen
 2. Copy the Project from Menu
    ![image](https://github.com/user-attachments/assets/78c35c37-b137-49d2-85b9-fc8b4f88b6c0)
 
+# Resources
+1. [Overleaf Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+2. [Github Collaboration](https://github.com/firstcontributions/first-contributions)
+3. [Latex YT Tutorial in Malayalam](https://youtu.be/w21OX2aMWVM?feature=shared) 
+
 # Credits
 
 Base Latex Template : [Kartik Singhal](https://github.com/k4rtik/latex-project-report-template) 
