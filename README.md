@@ -12,7 +12,7 @@ This repo contains the Seminar Report Template for Mechanical Engineering Studen
 # Resources
 1. [Overleaf Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 2. [Github Collaboration](https://github.com/firstcontributions/first-contributions)
-3. [Latex YT Tutorial in Malayalam](https://youtu.be/w21OX2aMWVM?feature=shared) 
+3. [Latex YT Playlist in Malayalam](https://youtube.com/playlist?list=PLKfsbJh9oLJnYAT5x0eb3XKVHeFDe4h8C&feature=shared) 
 
 # Credits
 
